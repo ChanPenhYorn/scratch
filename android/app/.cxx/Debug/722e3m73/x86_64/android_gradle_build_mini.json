@@ -6,14 +6,14 @@
     [
       "/Users/biz/Library/Android/sdk/cmake/3.22.1/bin/ninja",
       "-C",
-      "/Users/biz/Downloads/scratch/android/app/.cxx/Debug/722e3m73/x86_64",
+      "/Users/biz/Downloads/getx_mvvm_architecture/android/app/.cxx/Debug/722e3m73/x86_64",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "/Users/biz/Library/Android/sdk/cmake/3.22.1/bin/ninja",
     "-C",
-    "/Users/biz/Downloads/scratch/android/app/.cxx/Debug/722e3m73/x86_64",
+    "/Users/biz/Downloads/getx_mvvm_architecture/android/app/.cxx/Debug/722e3m73/x86_64",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {}

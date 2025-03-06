@@ -1,9 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:scratch/controllers/theme_controller.dart';
-import 'package:scratch/routes/app_page.dart';
-import 'package:scratch/routes/app_route.dart';
-import 'package:scratch/utils/app_translation.dart';
+import 'package:getx_mvvm_architecture/controllers/theme_controller.dart';
+import 'package:getx_mvvm_architecture/routes/app_page.dart';
+import 'package:getx_mvvm_architecture/routes/app_route.dart';
+import 'package:getx_mvvm_architecture/utils/app_translation.dart';
 
 import 'package:get/get.dart';
 

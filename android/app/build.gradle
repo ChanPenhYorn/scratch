@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace "com.example.scratch"
+    namespace "com.example.getx_mvvm_architecture"
     compileSdk 35
 
     compileOptions {
@@ -19,7 +19,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ai.scratch"
+        applicationId "com_getx_mvvm_architecture"
         minSdk 21
         targetSdk 35
         versionCode flutter.versionCode.toInteger()

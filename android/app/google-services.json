@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "576123181841",
-    "project_id": "scratch-32ff0",
-    "storage_bucket": "scratch-32ff0.firebasestorage.app"
+    "project_id": "getx_mvvm_architecture-32ff0",
+    "storage_bucket": "getx_mvvm_architecture-32ff0.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:576123181841:android:5091a49e3413e015944ab0",
         "android_client_info": {
-          "package_name": "com.ai.scratch"
+          "package_name": "com.ai.getx_mvvm_architecture"
         }
       },
       "oauth_client": [],

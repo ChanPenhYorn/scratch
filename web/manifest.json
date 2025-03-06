@@ -1,6 +1,6 @@
 {
-  "name": "scratch",
-  "short_name": "scratch",
+  "name": "getx_mvvm_architecture",
+  "short_name": "getx_mvvm_architecture",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0175C2",
